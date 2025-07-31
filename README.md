@@ -21,7 +21,7 @@ This project uses machine learning models to predict employee salaries based on 
 2. Install requirements
 3. Run the Streamlit app
 
-🤖 Project 2: TruthGuard AI
+# 🤖 Project 2: TruthGuard AI
 
 `TruthGuard AI` is a machine learning-based system that detects **fake news** and **deepfake images**.  
 It uses a **text ensemble model** combining:
